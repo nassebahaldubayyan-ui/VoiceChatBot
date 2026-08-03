@@ -1,0 +1,7 @@
+openai-whisper
+RealtimeSTT
+RealtimeTTS
+cohere
+python-dotenv
+sounddevice
+scipy
