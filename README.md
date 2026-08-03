@@ -217,6 +217,6 @@ Possible improvements:
 
 ---
 
-# Author
+# 👩‍💻 Author
 
-Created as a Python AI voice assistant project.
+**Nassebah Al-Dubayyan**
